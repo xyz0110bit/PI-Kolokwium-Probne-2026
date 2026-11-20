@@ -9,3 +9,4 @@
 # TODO 3. Pętla for po plikach *.log; obsłuż brak dopasowań.
 # TODO 4. Zlicz ERROR w każdym pliku i ustal status przez if.
 # TODO 5. Użyj printf, dokładnie trzy pola rozdzielone ;.
+ala ma kota
